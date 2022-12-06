@@ -88,6 +88,7 @@ about Dogecoin, give or ask for help, to share your project.
 Here are some places to visit:
 
 * [Dogecoin subreddit](https://www.reddit.com/r/dogecoin/)
+* [Dogecoin development subreddit](https://www.reddit.com/r/dogecoindev/)
 * [Dogeducation subreddit](https://www.reddit.com/r/dogeducation/)
 * [Discord](https://discord.gg/dogecoin)
 * [Dogecoin Twitter](https://twitter.com/dogecoin)
