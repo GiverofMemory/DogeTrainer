@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png" alt="Dogecoin" width="300"/>
+<img src="https://github.com/GiverofMemory/DogeTrainer/blob/master/share/pixmaps/300coint.png" alt="Dogecoin" width="300"/>
 <br/><br/>
 DogeTrainer Core [DOGET, Ðt]  
 </h1>
