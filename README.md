@@ -101,6 +101,6 @@ Do you have a question regarding Dogecoin? An answer is perhaps already in the
 of the discussion board!
 
 ## License - Much license ⚖️
-Dogecoin Core is released under the terms of the MIT license. See
-[COPYING](COPYING) for more information or see
-[opensource.org](https://opensource.org/licenses/MIT)
+DogeTrainer Core is released under the terms of the unlicense. See
+[UNLISCENSE](UNLISCENSE) for more information.
+For code copied from Dogecoin or Bitcoin, see thier respective liscenses.
