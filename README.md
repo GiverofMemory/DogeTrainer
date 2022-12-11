@@ -102,5 +102,5 @@ of the discussion board!
 
 ## License - Much license ⚖️
 DogeTrainer Core is released under the terms of the unlicense. See
-[UNLICENSE](UNLICENSE) for more information.
+[UNLICENSE](UNLICENSE) for more information. This includes all supposed intellectual property like pictures and non-code writings and words.
 For code copied from Dogecoin or Bitcoin, see thier respective licenses.
