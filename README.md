@@ -1,3 +1,4 @@
+May move to [Bitbucket](https://bitbucket.org/naturevault/) or [Gitlab](https://gitlab.com/giverofmemory/) due to mandatory 2FA here.
 <h1 align="center">
 <img src="https://github.com/GiverofMemory/DogeTrainer/blob/master/share/pixmaps/300coint.png" alt="Dogecoin" width="300"/>
 <br/><br/>
